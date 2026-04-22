@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 - 🎓 Computer Science Student  
 - 💻 Skilled in **MERN Stack Development**  
-- 🧠 Focused on **clean, efficient, and scalable code**  
+- 🧠 Focused on **clean, efficient, scalable code**  
 - 🎯 Preparing for **Software Engineering roles**
 
 ---
@@ -42,12 +42,11 @@
 - Implements CRUD operations and efficient data handling  
 
 ### 🔐 Password Generator
-- Generates secure passwords with custom options  
-- Focus on logic and usability  
+- Generates secure passwords with customizable options  
 
 ### ✅ To-Do Application
-- Task management with clean UI  
-- Demonstrates frontend + backend integration  
+- Task management app with clean UI  
+- Demonstrates full-stack integration  
 
 ---
 
@@ -56,11 +55,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=indramohankumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/indramohankumar/indramohankumar/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indramohankumar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -79,5 +75,5 @@
 ---
 
 <p align="center">
-  <i>Focused on building impactful software and continuously improving.</i>
+  <i>Focused on building impactful software and continuous improvement.</i>
 </p>
