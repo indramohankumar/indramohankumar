@@ -69,8 +69,8 @@
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: (add your link)  
-- 📧 Email: (add your email)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/indra-mohan-kumar-500375311/)  
+- 📧 Email: (deviavlish@gmail.com)  
 
 ---
 
