@@ -1,82 +1,83 @@
-<h1 align="center">Hi 👋, I'm Indramohan Kumar</h1>
+<h1 align="center">Indramohan Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Focused on backend systems, clean code, and real-world problem solving;" />
+  <b>Aspiring Software Engineer • Full Stack Developer</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Focused+on+clean+code+and+backend+systems;Turning+ideas+into+real-world+solutions" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Computer Science Student  
-- 💻 Focused on **MERN Stack + DSA**  
-- 🎯 Goal: Crack top tech placements  
-- ⚡ Belief: *Discipline beats motivation*
+- 🎓 Computer Science student with strong interest in **software development**
+- 💻 Experienced in building **full-stack applications using MERN**
+- 🧠 Focused on writing **clean, maintainable, and efficient code**
+- 🎯 Actively preparing for **software engineering roles**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 🚀 Languages
-![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
+<p align="center">
 
-### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML-0A0A0A?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-0A0A0A?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
+<img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=blue"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-0A0A0A?style=for-the-badge&logo=visualstudiocode)
+</p>
 
 ---
 
 ## 🚀 Projects
-- 📚 Library Management System  
-- 🔐 Password Generator  
-- ✅ To-Do App  
+
+### 📚 Library Management System
+- Full-stack CRUD application using MERN stack  
+- Efficient data handling and user-friendly interface  
+
+### 🔐 Password Generator
+- Generates secure, random passwords  
+- Focus on usability and security logic  
+
+### ✅ To-Do Application
+- Task management app with clean UI  
+- Demonstrates state management and CRUD operations  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
-- DSA (Placement Level)  
-- Backend Development  
-- System Design Basics  
+- Strengthening **Data Structures & Algorithms**
+- Improving **backend architecture skills**
+- Learning **system design fundamentals**
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: (your link)  
-- 📧 Email: (your email)  
+## 📫 Contact
+- 💼 LinkedIn: (https://www.linkedin.com/in/indra-mohan-kumar-500375311/)  
+- 📧 Email: (deviavlisha@gmail.com)  
 
 ---
 
 <p align="center">
-  <b>“Stay consistent. You’re closer than you think.”</b>
+  <i>Focused on growth, consistency, and building impactful software.</i>
 </p>
