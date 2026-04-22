@@ -70,7 +70,7 @@
 
 ## 📫 Contact
 - 💼 LinkedIn: (https://www.linkedin.com/in/indra-mohan-kumar-500375311/)  
-- 📧 Email: (deviavlish@gmail.com)  
+- 📧 Email: (deviavlisha@gmail.com)  
 
 ---
 
