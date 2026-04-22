@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indramohan Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Focused on backend systems, clean code, and real-world problem solving" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Focused on backend systems, clean code, and real-world problem solving;" />
 </p>
 
 ---
