@@ -11,10 +11,10 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Computer Science student with strong interest in **software development**
-- 💻 Experienced in building **full-stack applications using MERN**
-- 🧠 Focused on writing **clean, maintainable, and efficient code**
-- 🎯 Actively preparing for **software engineering roles**
+- 🎓 Computer Science Student  
+- 💻 Skilled in **MERN Stack Development**  
+- 🧠 Focused on **clean, efficient, and scalable code**  
+- 🎯 Preparing for **Software Engineering roles**
 
 ---
 
@@ -38,46 +38,46 @@
 ## 🚀 Projects
 
 ### 📚 Library Management System
-- Full-stack CRUD application using MERN stack  
-- Efficient data handling and user-friendly interface  
+- Full-stack MERN application  
+- Implements CRUD operations and efficient data handling  
 
 ### 🔐 Password Generator
-- Generates secure, random passwords  
-- Focus on usability and security logic  
+- Generates secure passwords with custom options  
+- Focus on logic and usability  
 
 ### ✅ To-Do Application
-- Task management app with clean UI  
-- Demonstrates state management and CRUD operations  
+- Task management with clean UI  
+- Demonstrates frontend + backend integration  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=indramohankumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/indra_mohan_kumar/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/indramohankumar/indramohankumar/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
-- Strengthening **Data Structures & Algorithms**
-- Improving **backend architecture skills**
-- Learning **system design fundamentals**
+- Backend Development  
+- System Design Basics  
+- Data Structures & Algorithms  
 
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: (https://www.linkedin.com/in/indra-mohan-kumar-500375311/)  
-- 📧 Email: (deviavlisha@gmail.com)  
+- 💼 LinkedIn: (add your link)  
+- 📧 Email: (add your email)  
 
 ---
 
 <p align="center">
-  <i>Focused on growth, consistency, and building impactful software.</i>
+  <i>Focused on building impactful software and continuously improving.</i>
 </p>
