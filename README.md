@@ -12,13 +12,14 @@ Full Stack Developer • MERN Stack Enthusiast • Aspiring Software Engineer
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 Computer Science Student passionate about software engineering  
-- 💻 Skilled in **MERN Stack Development**  
-- 🧠 Focused on **clean, scalable, and maintainable code**  
+- 🎓 Computer Science Student passionate about Software Engineering  
+- 💻 MERN Stack Developer focused on building scalable applications  
+- 🧠 Strong interest in Backend Engineering & System Design  
 - 🏆 Inter-University Hackathon Winner  
-- 📚 Currently learning **DSA + System Design**  
+- 📚 Actively learning DSA, Operating Systems & Development  
+- 🚀 Building real-world full-stack projects with modern technologies  
 - 🎯 Goal: Become a high-level Software Engineer  
 
 ---
@@ -35,71 +36,95 @@ Full Stack Developer • MERN Stack Enthusiast • Aspiring Software Engineer
 
 # 🚀 Featured Projects
 
-## 🔐 Auth Project — Authentication System
-
-> Secure authentication-focused web application with clean UI and modern frontend practices.
-
-### ✨ Features
-- User Signup & Login System  
-- Form Validation  
-- Responsive UI  
-- Structured Component-Based Architecture  
-- Authentication Flow Handling  
-- Clean & Maintainable Codebase  
-
-### 🛠️ Tech Used
-`JavaScript` `HTML5` `CSS3`
-
-### 🔗 Project Links
-- Repository:  
-  https://github.com/indramohankumar/auth-project-_main
-
-- Security Page:  
-  https://github.com/indramohankumar/auth-project-_main/security
-
 ---
 
-## 🏢 Visitor Pass Management System
+## 🏢 Visitor Pass Management System (VPMS)
 
-> Full-stack MERN application for managing visitor entries and approvals.
+> Enterprise-grade MERN application designed to digitize and automate visitor management workflows for organizations and campuses.
 
-### ✨ Features
-- QR-based visitor verification  
-- Authentication & protected routes  
-- Admin dashboard  
-- Real-time visitor tracking  
-- Responsive UI  
+### ✨ Key Features
+- Secure JWT Authentication & Protected Routes
+- QR-Based Visitor Verification
+- Real-Time Check-In / Check-Out Tracking
+- Role-Based Access Control (RBAC)
+- Smart Digital Pass Generation
+- Appointment Approval Workflow
+- Dashboard Analytics & Monitoring
+- Responsive Modern UI
 
-### 🛠️ Tech Used
-`React` `Node.js` `Express.js` `MongoDB`
+### 🧠 Engineering Highlights
+- Scalable REST API Architecture
+- Secure Authentication & Authorization
+- Clean Component-Based Frontend Structure
+- Optimized Backend Workflow Handling
+- Real-World Enterprise System Design
+
+### 🛠️ Tech Stack
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
+
+### 🔗 Repository
+- https://github.com/indramohankumar
 
 ---
 
 ## 🎓 College ERP System *(In Progress)*
 
-> Scalable ERP platform for managing academic workflows.
+> Scalable ERP platform for managing academic workflows and campus operations.
 
 ### Planned Features
-- Student management  
-- Attendance tracking  
-- Faculty dashboard  
-- Notices & assignments  
-- Authentication system  
+- Student & Faculty Management
+- Attendance Tracking
+- Assignment & Notice Management
+- Authentication & Role Management
+- Dashboard Analytics
+
+### 🛠️ Tech Stack
+`React.js` `Node.js` `Express.js` `MongoDB`
 
 ---
 
 ## 📚 Library Management System
-> CRUD-based full-stack application for efficient library management.
+
+> Full-stack CRUD application for efficient library and book management operations.
+
+### Features
+- Book Management
+- Issue & Return Tracking
+- Search & Filtering
+- Authentication System
+
+### 🛠️ Tech Stack
+`React.js` `Node.js` `MongoDB`
 
 ---
 
 ## 🔐 Password Generator
-> Generates secure customizable passwords with modern UI.
+
+> Secure password generation tool with customizable options and responsive UI.
+
+### Features
+- Strong Password Generation
+- Custom Length & Characters
+- Clipboard Copy Support
+- Responsive Design
+
+### 🛠️ Tech Stack
+`JavaScript` `React.js` `CSS`
 
 ---
 
 ## ✅ To-Do Application
-> Task management app demonstrating frontend-backend integration.
+
+> Task management application showcasing frontend-backend integration and state handling.
+
+### Features
+- CRUD Operations
+- Task Status Management
+- Responsive UI
+- API Integration
+
+### 🛠️ Tech Stack
+`React.js` `Node.js` `MongoDB`
 
 ---
 
@@ -125,9 +150,19 @@ Full Stack Developer • MERN Stack Enthusiast • Aspiring Software Engineer
 
 - Backend Engineering  
 - Data Structures & Algorithms  
+- Operating Systems  
 - System Design Fundamentals  
 - Advanced React Development  
-- Building Real-World Projects  
+- Building Scalable Full-Stack Applications  
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Inter-University Hackathon Winner  
+- 💻 Built Multiple Full-Stack MERN Applications  
+- 📚 Consistently practicing DSA & Core CS Subjects  
+- 🚀 Focused on long-term software engineering growth  
 
 ---
 
@@ -147,10 +182,14 @@ Full Stack Developer • MERN Stack Enthusiast • Aspiring Software Engineer
 
 ---
 
+# 📈 Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=indramohankumar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
+
 <h3 align="center">
-⚡ Focused on growth, consistency, and building impactful software.
+⚡ Focused on consistency, growth, and building impactful software.
 </h3>
