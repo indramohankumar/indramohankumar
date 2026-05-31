@@ -1,176 +1,139 @@
-```md
 <h1 align="center">Hi 👋, I'm Indramohan Kumar</h1>
 
 <h3 align="center">
-Full Stack Developer • MERN Stack Engineer • Aspiring Software Engineer
+Full Stack Developer • MERN Stack Enthusiast • Aspiring Software Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Full-Stack+Applications;MERN+Stack+Developer;Backend+Engineering+%26+System+Design+Enthusiast;DSA+Learner+and+Problem+Solver;Turning+Ideas+Into+Real-World+Software" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/indramohankumar">
-    <img src="https://img.shields.io/github/followers/indramohankumar?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/indramohankumar">
-    <img src="https://img.shields.io/github/stars/indramohankumar?affiliations=OWNER&style=for-the-badge" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Modern+Full+Stack+Applications;Focused+on+Backend+Engineering+%26+Scalable+Systems;Learning+DSA+%26+System+Design;Turning+Ideas+Into+Real-World+Projects" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 Computer Science Undergraduate passionate about building scalable software systems and solving real-world problems through technology.
-
-💻 MERN Stack Developer with a strong focus on Backend Engineering and Application Architecture.
-
-📚 Currently learning:
-- Data Structures & Algorithms
-- Operating Systems
-- DBMS
-- Computer Networks
-- System Design Fundamentals
-
-🏆 Inter-University Hackathon Winner
-
-🎯 Goal: Become a high-impact Software Engineer and build products that solve meaningful problems.
+- 🎓 Computer Science Student passionate about Software Engineering  
+- 💻 MERN Stack Developer focused on building scalable applications  
+- 🧠 Strong interest in Backend Engineering & System Design  
+- 🏆 Inter-University Hackathon Winner  
+- 📚 Actively learning DSA, Operating Systems & Development  
+- 🚀 Building real-world full-stack projects with modern technologies  
+- 🎯 Goal: Become a high-level Software Engineer  
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,python" />
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,git,github,vscode,postman,tailwind" />
+
 </p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-# 🏆 Achievements
-
-🥇 Inter-University Hackathon Winner
-
-🎯 GATE CSE AIR 1448
-
-🚀 IIIT Hyderabad PGEE AIR 24
-
-💻 Built Multiple Full-Stack MERN Applications
-
-📚 Consistently Practicing DSA & Core Computer Science Subjects
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏢 VisitorPass – Enterprise Visitor Management System
+---
 
-A production-oriented MERN application designed to digitize and automate visitor management workflows for organizations and campuses.
+## 🏢 Visitor Pass Management System (VPMS)
 
-### Key Features
+> Enterprise-grade MERN application designed to digitize and automate visitor management workflows for organizations and campuses.
 
-- Secure JWT Authentication
-- Role-Based Access Control (RBAC)
+### ✨ Key Features
+- Secure JWT Authentication & Protected Routes
 - QR-Based Visitor Verification
-- Real-Time Check-In & Check-Out Tracking
+- Real-Time Check-In / Check-Out Tracking
+- Role-Based Access Control (RBAC)
+- Smart Digital Pass Generation
 - Appointment Approval Workflow
-- Dashboard Analytics
-- Digital Pass Generation
+- Dashboard Analytics & Monitoring
 - Responsive Modern UI
 
-### Engineering Highlights
+### 🧠 Engineering Highlights
+- Scalable REST API Architecture
+- Secure Authentication & Authorization
+- Clean Component-Based Frontend Structure
+- Optimized Backend Workflow Handling
+- Real-World Enterprise System Design
 
-- RESTful API Architecture
-- Authentication & Authorization
-- Modular Backend Design
-- Scalable Component Structure
-- Enterprise Workflow Automation
-
-### Tech Stack
-
+### 🛠️ Tech Stack
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
 
-### Repository
-
-🔗 https://github.com/indramohankumar
+### 🔗 Repository
+- https://github.com/indramohankumar
 
 ---
 
-## 🎓 College ERP System (In Progress)
+## 🎓 College ERP System *(In Progress)*
 
-A scalable ERP platform aimed at streamlining academic and administrative operations within educational institutions.
+> Scalable ERP platform for managing academic workflows and campus operations.
 
-### Planned Modules
-
-- Student Management
-- Faculty Management
+### Planned Features
+- Student & Faculty Management
 - Attendance Tracking
-- Assignment Management
-- Notice Board System
-- Role-Based Authentication
-- Analytics Dashboard
+- Assignment & Notice Management
+- Authentication & Role Management
+- Dashboard Analytics
 
-### Tech Stack
-
+### 🛠️ Tech Stack
 `React.js` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-## 🤖 AI-Powered ERP System (Upcoming)
+## 📚 Library Management System
 
-A next-generation ERP platform integrating Artificial Intelligence to automate workflows and improve decision-making.
+> Full-stack CRUD application for efficient library and book management operations.
 
-### Planned Features
+### Features
+- Book Management
+- Issue & Return Tracking
+- Search & Filtering
+- Authentication System
 
-- AI Assistant
-- Smart Attendance Insights
-- Student Performance Analytics
-- Faculty Productivity Dashboard
-- Predictive Reports
-- AI-Powered Search & Recommendations
+### 🛠️ Tech Stack
+`React.js` `Node.js` `MongoDB`
 
-### Tech Stack
+---
 
-`React.js` `Node.js` `MongoDB` `Python` `AI APIs`
+## 🔐 Password Generator
+
+> Secure password generation tool with customizable options and responsive UI.
+
+### Features
+- Strong Password Generation
+- Custom Length & Characters
+- Clipboard Copy Support
+- Responsive Design
+
+### 🛠️ Tech Stack
+`JavaScript` `React.js` `CSS`
+
+---
+
+## ✅ To-Do Application
+
+> Task management application showcasing frontend-backend integration and state handling.
+
+### Features
+- CRUD Operations
+- Task Status Management
+- Responsive UI
+- API Integration
+
+### 🛠️ Tech Stack
+`React.js` `Node.js` `MongoDB`
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=indramohankumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=indramohankumar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indramohankumar&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indramohankumar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -178,46 +141,28 @@ A next-generation ERP platform integrating Artificial Intelligence to automate w
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=indramohankumar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=indramohankumar&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=indramohankumar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # 🌱 Current Focus
 
-- Backend Engineering
-- Data Structures & Algorithms
-- Operating Systems
-- DBMS
-- System Design Fundamentals
-- React Ecosystem
-- Building Scalable Full-Stack Applications
+- Backend Engineering  
+- Data Structures & Algorithms  
+- Operating Systems  
+- System Design Fundamentals  
+- Advanced React Development  
+- Building Scalable Full-Stack Applications  
 
 ---
 
-# 🎯 2026 Goals
+# 🏆 Achievements
 
-✅ Strengthen DSA & Problem Solving
-
-✅ Build AI-Powered ERP System
-
-✅ Master Backend Development
-
-✅ Learn System Design
-
-✅ Contribute to Open Source
-
-✅ Secure Top Software Engineering Opportunities
+- 🥇 Inter-University Hackathon Winner  
+- 💻 Built Multiple Full-Stack MERN Applications  
+- 📚 Consistently practicing DSA & Core CS Subjects  
+- 🚀 Focused on long-term software engineering growth  
 
 ---
 
@@ -226,26 +171,25 @@ A next-generation ERP platform integrating Artificial Intelligence to automate w
 <p align="center">
 
 <a href="https://www.linkedin.com/in/indra-mohan-kumar-500375311/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:deviavlisha@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+# 📈 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=indramohankumar&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=indramohankumar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 <h3 align="center">
-💡 Consistency compounds. Build. Learn. Improve. Repeat.
-</h3>
-```
+⚡ Focused on consistency, growth, and building impactful software.
+</h3>  make it  more professinal and attractive very eye catching 
