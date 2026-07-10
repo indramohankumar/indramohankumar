@@ -184,7 +184,7 @@ Every project I build is an opportunity to improve my understanding of architect
 
 ### Short Term
 
-- ✅ Solve 300+ DSA Problems
+- ✅ Solve 150+ DSA Problems
 - 🚖 Complete Production-Inspired Uber Clone
 - 📚 Strengthen Core CS Subjects
 - 📖 Learn Redis
@@ -220,7 +220,7 @@ Every project I build is an opportunity to improve my understanding of architect
   <a href="https://www.linkedin.com/in/indra-mohan-kumar-500375311/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:deviavlisha@gmail.com">
+  <a href="mailto:kumarindramohan@842gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -249,3 +249,4 @@ while (!success)
 
 <p align="center"><b>Code. Learn. Build. Repeat.</b></p>
 <p align="center">⭐ Thanks for visiting my profile! ⭐</p>
+  this is my github profile readme make it more attractiv with my achievement section national level hacthon ruuner up and projects leetcode and all thattt make it very dynmaic and all stats should be visible 
