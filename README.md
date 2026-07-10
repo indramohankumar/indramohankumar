@@ -132,7 +132,7 @@ Going beyond CRUD — building systems with **JWT auth, Socket.IO, fare calculat
 ## 🔥 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/indramohankumar/">
+  <a href="https://leetcode.com/u/indra_mohan_kumar/">
     <img width="60%" src="https://leetcard.jacoblin.cool/indramohankumar?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" />
   </a>
 </p>
