@@ -114,8 +114,8 @@ Built **multiple production-inspired MERN applications** from scratch, focusing 
 <tr>
 <td align="center" width="50%">
 
-### 🧠 DSA Problem Solver
-Consistently practicing Data Structures & Algorithms on **LeetCode** to strengthen problem-solving foundations and prepare for technical interviews.
+### 🧠 150+ DSA Problems Solved
+Consistently practicing Data Structures & Algorithms on **LeetCode** and other platforms to strengthen problem-solving foundations and prepare for technical interviews.
 
 </td>
 <td align="center" width="50%">
@@ -126,16 +126,6 @@ Going beyond CRUD — building systems with **JWT auth, Socket.IO, fare calculat
 </td>
 </tr>
 </table>
-
----
-
-## 🔥 LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/indra_mohan_kumar/">
-    <img width="60%" src="https://leetcard.jacoblin.cool/indramohankumar?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" />
-  </a>
-</p>
 
 ---
 
@@ -248,7 +238,7 @@ Going beyond CRUD — building systems with **JWT auth, Socket.IO, fare calculat
 | Goal | Status | Progress |
 |------|--------|----------|
 | 🚖 Complete Uber Clone | 🔄 In Progress | ████████░░ 80% |
-| 📊 300+ DSA Problems | 🔄 In Progress | ██████░░░░ 60% |
+| 📊 150+ DSA Problems | ✅ Achieved | ████████░░ 80% |
 | 📚 Master Core CS Subjects | 🔄 Learning | █████░░░░░ 50% |
 | 📡 Learn Redis & Socket.IO | ✅ Socket.IO Done | ███████░░░ 70% |
 | 🐳 Learn Docker & DevOps | 📌 Planned | ██░░░░░░░░ 20% |
@@ -266,7 +256,7 @@ Going beyond CRUD — building systems with **JWT auth, Socket.IO, fare calculat
   <a href="https://www.linkedin.com/in/indra-mohan-kumar-500375311/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/indramohankumar/">
+  <a href="https://leetcode.com/u/indra_mohan_kumar/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:deviavlisha@gmail.com">
