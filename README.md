@@ -1,36 +1,88 @@
+# 🚀 GitHub Profile README (Part 1)
+
+````md
 <h1 align="center">Hi 👋, I'm Indramohan Kumar</h1>
 
 <h3 align="center">
-Full Stack Developer • MERN Stack Enthusiast • Aspiring Software Engineer
+Software Engineering Enthusiast • Full Stack MERN Developer • Backend Focused
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Modern+Full+Stack+Applications;Focused+on+Backend+Engineering+%26+Scalable+Systems;Learning+DSA+%26+System+Design;Turning+Ideas+Into+Real-World+Projects" />
+Building scalable applications • Solving DSA • Learning System Design
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+I'm a Computer Science student passionate about building scalable backend systems and modern full-stack web applications.
 
-- 🎓 Computer Science Student passionate about Software Engineering  
-- 💻 MERN Stack Developer focused on building scalable applications  
-- 🧠 Strong interest in Backend Engineering & System Design  
-- 🏆 Inter-University Hackathon Winner  
-- 📚 Actively learning DSA, Operating Systems & Development  
-- 🚀 Building real-world full-stack projects with modern technologies  
-- 🎯 Goal: Become a high-level Software Engineer  
+My primary interests lie in **Backend Development**, **Software Engineering**, and **Distributed Systems**. I enjoy transforming complex ideas into practical applications while continuously improving my understanding of algorithms, system design, and scalable architectures.
+
+Currently, I'm focused on strengthening my problem-solving skills through Data Structures & Algorithms while developing production-inspired projects using the MERN Stack.
+
+---
+
+## 🎯 Current Focus
+
+- 🚖 Building a Production Inspired Uber Clone
+- 🧠 Practicing Data Structures & Algorithms
+- ⚙️ Learning Backend Architecture
+- 📚 Operating Systems & DBMS
+- 🌐 MERN Stack Development
+- 🚀 Exploring System Design
 
 ---
 
 # 🛠️ Tech Stack
 
-<p align="center">
+## Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,git,github,vscode,postman,tailwind" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js" />
 </p>
+
+---
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css" />
+</p>
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+---
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+## Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=redis,docker" />
+</p>
+
+> 📌 Upcoming Technologies: **Socket.IO • Apache Kafka • Docker • CI/CD**
 
 ---
 
@@ -38,102 +90,102 @@ Full Stack Developer • MERN Stack Enthusiast • Aspiring Software Engineer
 
 ---
 
-## 🏢 Visitor Pass Management System (VPMS)
+# 🚖 Uber Clone (Currently Building)
 
-> Enterprise-grade MERN application designed to digitize and automate visitor management workflows for organizations and campuses.
+### Production Inspired Ride Hailing Platform
 
-### ✨ Key Features
-- Secure JWT Authentication & Protected Routes
-- QR-Based Visitor Verification
-- Real-Time Check-In / Check-Out Tracking
-- Role-Based Access Control (RBAC)
-- Smart Digital Pass Generation
-- Appointment Approval Workflow
-- Dashboard Analytics & Monitoring
-- Responsive Modern UI
+A scalable full-stack ride-hailing application inspired by Uber's backend architecture.
 
-### 🧠 Engineering Highlights
-- Scalable REST API Architecture
-- Secure Authentication & Authorization
-- Clean Component-Based Frontend Structure
-- Optimized Backend Workflow Handling
-- Real-World Enterprise System Design
+Instead of simply recreating the UI, the project focuses on understanding how real-world ride-sharing applications work internally.
 
-### 🛠️ Tech Stack
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
+### Current Features
 
-### 🔗 Repository
-- https://github.com/indramohankumar
-
----
-
-## 🎓 College ERP System *(In Progress)*
-
-> Scalable ERP platform for managing academic workflows and campus operations.
+- JWT Authentication
+- Rider Authentication
+- Captain Authentication
+- Ride Creation API
+- Ride Service Layer
+- Secure OTP Generation
+- Dynamic Fare Calculation
+- Protected Routes
+- Modular Backend Architecture
 
 ### Planned Features
-- Student & Faculty Management
-- Attendance Tracking
-- Assignment & Notice Management
-- Authentication & Role Management
-- Dashboard Analytics
 
-### 🛠️ Tech Stack
-`React.js` `Node.js` `Express.js` `MongoDB`
+- Socket.IO Real-Time Communication
+- Redis Caching
+- Apache Kafka
+- Live Driver Tracking
+- Driver Matching
+- Google Maps Integration
+- Payment Gateway
+- Docker Deployment
 
----
+### Tech Stack
 
-## 📚 Library Management System
-
-> Full-stack CRUD application for efficient library and book management operations.
-
-### Features
-- Book Management
-- Issue & Return Tracking
-- Search & Filtering
-- Authentication System
-
-### 🛠️ Tech Stack
-`React.js` `Node.js` `MongoDB`
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`JWT`
+`Tailwind CSS`
 
 ---
 
-## 🔐 Password Generator
+# 🏢 Visitor Pass Management System
 
-> Secure password generation tool with customizable options and responsive UI.
+Enterprise-grade Visitor Management System built using the MERN Stack.
 
-### Features
-- Strong Password Generation
-- Custom Length & Characters
-- Clipboard Copy Support
-- Responsive Design
+Digitizes visitor registration, verification and approval workflows.
 
-### 🛠️ Tech Stack
-`JavaScript` `React.js` `CSS`
+### Highlights
+
+- JWT Authentication
+- Role Based Access Control
+- QR Code Verification
+- Visitor Pass Generation
+- Dashboard
+- Secure REST APIs
+
+### Tech Stack
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`Tailwind CSS`
 
 ---
 
-## ✅ To-Do Application
+# ✅ Full Stack To-Do Application
 
-> Task management application showcasing frontend-backend integration and state handling.
+A complete task management application demonstrating CRUD operations and backend integration.
 
 ### Features
-- CRUD Operations
-- Task Status Management
+
+- User Authentication
+- Task CRUD Operations
+- REST APIs
+- MongoDB Integration
 - Responsive UI
-- API Integration
 
-### 🛠️ Tech Stack
-`React.js` `Node.js` `MongoDB`
+### Tech Stack
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=indramohankumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indramohankumar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=indramohankumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indramohankumar&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -141,55 +193,245 @@ Full Stack Developer • MERN Stack Enthusiast • Aspiring Software Engineer
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=indramohankumar&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=indramohankumar&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🌱 Current Focus
+# 📈 Contribution Graph
 
-- Backend Engineering  
-- Data Structures & Algorithms  
-- Operating Systems  
-- System Design Fundamentals  
-- Advanced React Development  
-- Building Scalable Full-Stack Applications  
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=indramohankumar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+```
+````
+````md
+# 🎯 What I'm Currently Learning
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Software Development
+
+- Backend Engineering
+- REST API Design
+- Authentication & Authorization
+- Clean Code Principles
+- Scalable Project Architecture
+
+</td>
+
+<td width="50%">
+
+### 📚 Computer Science
+
+- Data Structures & Algorithms
+- Operating Systems
+- Database Management Systems
+- Computer Networks
+- Object-Oriented Programming
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛣️ Learning Roadmap
+
+| Technology | Status |
+|------------|--------|
+| MERN Stack | ✅ Strong Foundation |
+| Data Structures & Algorithms | 🔄 Improving Daily |
+| Operating Systems | 🔄 Learning |
+| DBMS | 🔄 Learning |
+| Computer Networks | 🔄 Learning |
+| System Design | 🔄 Exploring |
+| Redis | 📌 Next Goal |
+| Socket.IO | 📌 Next Goal |
+| Apache Kafka | 📌 Future Goal |
+| Docker | 📌 Future Goal |
+| CI/CD | 📌 Future Goal |
+| AWS | 📌 Future Goal |
+
+---
+
+# 💡 Engineering Philosophy
+
+> **"I believe software engineering is more than writing code. It is about building scalable, maintainable, and reliable systems that solve real-world problems."**
+
+I enjoy understanding **how software works internally** rather than simply using libraries or frameworks.
+
+Every project I build is an opportunity to improve my understanding of architecture, clean code, and backend engineering.
+
+---
+
+# 📌 Current Goals
+
+### Short Term
+
+- ✅ Solve 300+ DSA Problems
+- 🚖 Complete Production-Inspired Uber Clone
+- 📚 Strengthen Core CS Subjects
+- 📖 Learn Redis
+- 📡 Learn Socket.IO
+
+---
+
+### Long Term
+
+- Learn Apache Kafka
+- Learn Docker
+- Learn CI/CD
+- Learn AWS Cloud
+- Master System Design
+- Become a Backend Software Engineer
+
+---
+
+# 📈 Developer Mindset
+
+<table>
+
+<tr>
+
+<td>
+
+✔ Consistency over Motivation
+
+</td>
+
+<td>
+
+✔ Learn by Building
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+✔ Clean Code
+
+</td>
+
+<td>
+
+✔ Continuous Improvement
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+✔ Scalable Systems
+
+</td>
+
+<td>
+
+✔ Problem Solving
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 🏆 Achievements
 
-- 🥇 Inter-University Hackathon Winner  
-- 💻 Built Multiple Full-Stack MERN Applications  
-- 📚 Consistently practicing DSA & Core CS Subjects  
-- 🚀 Focused on long-term software engineering growth  
+🥈 Runner-Up at a National-Level Hackathon
+
+💻 Built Multiple Full-Stack MERN Applications
+
+📚 Consistently Practicing Data Structures & Algorithms
+
+🚀 Building Production-Inspired Backend Projects
+
+🎯 Focused on Long-Term Software Engineering Growth
 
 ---
 
-# 🤝 Connect With Me
+# 📊 Quick Overview
+
+| Category | Details |
+|----------|---------|
+| 🎓 Education | Computer Science Engineering Student |
+| 💻 Specialization | Full Stack Development |
+| ❤️ Favorite Area | Backend Engineering |
+| 🌱 Currently Learning | System Design & Redis |
+| 🎯 Goal | Software Engineer |
+| 📍 Location | India |
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
+<a href="https://github.com/indramohankumar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/indra-mohan-kumar-500375311/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:deviavlisha@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 📈 Profile Views
+# 📊 GitHub Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=indramohankumar&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://komarev.com/ghpvc/?username=indramohankumar&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
+
+---
+
+# ⚡ Fun Fact
+
+```cpp
+while (!success)
+{
+    learn();
+    build();
+    debug();
+    improve();
+}
+```
 
 ---
 
 <h3 align="center">
-⚡ Focused on consistency, growth, and building impactful software.
-</h3>  make it  more professinal and attractive very eye catching 
+
+"Code. Learn. Build. Repeat."
+
+</h3>
+
+<h4 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h4>
+````
