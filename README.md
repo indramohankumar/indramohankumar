@@ -1,14 +1,17 @@
-# 🚀 GitHub Profile README (Part 1)
-
-````md
-<h1 align="center">Hi 👋, I'm Indramohan Kumar</h1>
-
-<h3 align="center">
-Software Engineering Enthusiast • Full Stack MERN Developer • Backend Focused
-</h3>
+# 🚀 GitHub Profile README
 
 <p align="center">
-Building scalable applications • Solving DSA • Learning System Design
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1f8bfd&height=220&section=header&text=Indramohan%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Enthusiast%20%7C%20Backend%20Focused%20%7C%20MERN%20Developer&descAlignY=60&descAlign=50" alt="Profile banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Indramohan+Kumar;Full+Stack+MERN+Developer;Backend+Engineering+Enthusiast;Learning+System+Design+and+Distributed+Systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-System%20Design-1f8bfd?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-MERN-3d8bfd?style=for-the-badge" />
 </p>
 
 ---
@@ -17,202 +20,107 @@ Building scalable applications • Solving DSA • Learning System Design
 
 I'm a Computer Science student passionate about building scalable backend systems and modern full-stack web applications.
 
-My primary interests lie in **Backend Development**, **Software Engineering**, and **Distributed Systems**. I enjoy transforming complex ideas into practical applications while continuously improving my understanding of algorithms, system design, and scalable architectures.
+My primary interests lie in **Backend Development**, **Software Engineering**, and **Distributed Systems**. I enjoy transforming complex ideas into practical applications while continuously improving my problem-solving and system design skills.
 
-Currently, I'm focused on strengthening my problem-solving skills through Data Structures & Algorithms while developing production-inspired projects using the MERN Stack.
+Currently, I'm focused on strengthening my DSA skills while building production-inspired projects using the MERN stack.
 
 ---
 
 ## 🎯 Current Focus
 
-- 🚖 Building a Production Inspired Uber Clone
+- 🚖 Building a production-inspired Uber clone
 - 🧠 Practicing Data Structures & Algorithms
-- ⚙️ Learning Backend Architecture
+- ⚙️ Learning backend architecture
 - 📚 Operating Systems & DBMS
-- 🌐 MERN Stack Development
+- 🌐 MERN Stack development
 - 🚀 Exploring System Design
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,tailwind,vite,git,github,vscode,postman,redis,docker" />
 </p>
 
 ---
 
-## Frontend
+## 🚀 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css" />
-</p>
+### 🚖 Uber Clone — Currently Building
 
----
+A scalable ride-hailing application inspired by real-world backend architecture.
 
-## Backend
+**Current features**
+- JWT authentication
+- Rider & captain authentication
+- Ride creation API
+- Ride service layer
+- Secure OTP generation
+- Dynamic fare calculation
+- Protected routes
+- Modular backend architecture
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
----
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
----
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
-
----
-
-## Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=redis,docker" />
-</p>
-
-> 📌 Upcoming Technologies: **Socket.IO • Apache Kafka • Docker • CI/CD**
-
----
-
-# 🚀 Featured Projects
-
----
-
-# 🚖 Uber Clone (Currently Building)
-
-### Production Inspired Ride Hailing Platform
-
-A scalable full-stack ride-hailing application inspired by Uber's backend architecture.
-
-Instead of simply recreating the UI, the project focuses on understanding how real-world ride-sharing applications work internally.
-
-### Current Features
-
-- JWT Authentication
-- Rider Authentication
-- Captain Authentication
-- Ride Creation API
-- Ride Service Layer
-- Secure OTP Generation
-- Dynamic Fare Calculation
-- Protected Routes
-- Modular Backend Architecture
-
-### Planned Features
-
-- Socket.IO Real-Time Communication
-- Redis Caching
+**Planned features**
+- Socket.IO real-time communication
+- Redis caching
 - Apache Kafka
-- Live Driver Tracking
-- Driver Matching
-- Google Maps Integration
-- Payment Gateway
-- Docker Deployment
+- Live driver tracking
+- Driver matching
+- Google Maps integration
+- Payment gateway
+- Docker deployment
 
-### Tech Stack
-
-`React`
-`Node.js`
-`Express`
-`MongoDB`
-`JWT`
-`Tailwind CSS`
+**Tech Stack**
+`React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS`
 
 ---
 
-# 🏢 Visitor Pass Management System
+### 🏢 Visitor Pass Management System
 
-Enterprise-grade Visitor Management System built using the MERN Stack.
+Enterprise-grade visitor management system built using the MERN stack.
 
-Digitizes visitor registration, verification and approval workflows.
-
-### Highlights
-
-- JWT Authentication
-- Role Based Access Control
-- QR Code Verification
-- Visitor Pass Generation
+**Highlights**
+- JWT authentication
+- Role-based access control
+- QR code verification
+- Visitor pass generation
 - Dashboard
 - Secure REST APIs
 
-### Tech Stack
-
-`React`
-`Node.js`
-`Express`
-`MongoDB`
-`Tailwind CSS`
-
 ---
 
-# ✅ Full Stack To-Do Application
+### ✅ Full Stack To-Do Application
 
-A complete task management application demonstrating CRUD operations and backend integration.
+A task management application demonstrating CRUD operations and backend integration.
 
-### Features
-
-- User Authentication
-- Task CRUD Operations
+**Features**
+- User authentication
+- Task CRUD operations
 - REST APIs
-- MongoDB Integration
+- MongoDB integration
 - Responsive UI
 
-### Tech Stack
-
-`React`
-`Node.js`
-`Express`
-`MongoDB`
-
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=indramohankumar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indramohankumar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=indramohankumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=indramohankumar&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indramohankumar&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indramohankumar&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=indramohankumar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=indramohankumar&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-```
-````
-````md
-# 🎯 What I'm Currently Learning
+## 🎯 What I'm Currently Learning
 
 <table>
 <tr>
@@ -227,7 +135,6 @@ A complete task management application demonstrating CRUD operations and backend
 - Scalable Project Architecture
 
 </td>
-
 <td width="50%">
 
 ### 📚 Computer Science
@@ -244,7 +151,7 @@ A complete task management application demonstrating CRUD operations and backend
 
 ---
 
-# 🛣️ Learning Roadmap
+## 🛣️ Learning Roadmap
 
 | Technology | Status |
 |------------|--------|
@@ -263,7 +170,7 @@ A complete task management application demonstrating CRUD operations and backend
 
 ---
 
-# 💡 Engineering Philosophy
+## 💡 Engineering Philosophy
 
 > **"I believe software engineering is more than writing code. It is about building scalable, maintainable, and reliable systems that solve real-world problems."**
 
@@ -273,7 +180,7 @@ Every project I build is an opportunity to improve my understanding of architect
 
 ---
 
-# 📌 Current Goals
+## 📌 Current Goals
 
 ### Short Term
 
@@ -282,8 +189,6 @@ Every project I build is an opportunity to improve my understanding of architect
 - 📚 Strengthen Core CS Subjects
 - 📖 Learn Redis
 - 📡 Learn Socket.IO
-
----
 
 ### Long Term
 
@@ -296,120 +201,41 @@ Every project I build is an opportunity to improve my understanding of architect
 
 ---
 
-# 📈 Developer Mindset
+## 🏆 Achievements
 
-<table>
-
-<tr>
-
-<td>
-
-✔ Consistency over Motivation
-
-</td>
-
-<td>
-
-✔ Learn by Building
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✔ Clean Code
-
-</td>
-
-<td>
-
-✔ Continuous Improvement
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✔ Scalable Systems
-
-</td>
-
-<td>
-
-✔ Problem Solving
-
-</td>
-
-</tr>
-
-</table>
+- 🥈 Runner-Up at a National-Level Hackathon
+- 💻 Built Multiple Full-Stack MERN Applications
+- 📚 Consistently Practicing Data Structures & Algorithms
+- 🚀 Building Production-Inspired Backend Projects
+- 🎯 Focused on Long-Term Software Engineering Growth
 
 ---
 
-# 🏆 Achievements
-
-🥈 Runner-Up at a National-Level Hackathon
-
-💻 Built Multiple Full-Stack MERN Applications
-
-📚 Consistently Practicing Data Structures & Algorithms
-
-🚀 Building Production-Inspired Backend Projects
-
-🎯 Focused on Long-Term Software Engineering Growth
-
----
-
-# 📊 Quick Overview
-
-| Category | Details |
-|----------|---------|
-| 🎓 Education | Computer Science Engineering Student |
-| 💻 Specialization | Full Stack Development |
-| ❤️ Favorite Area | Backend Engineering |
-| 🌱 Currently Learning | System Design & Redis |
-| 🎯 Goal | Software Engineer |
-| 📍 Location | India |
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/indramohankumar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/indra-mohan-kumar-500375311/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:deviavlisha@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/indramohankumar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/indra-mohan-kumar-500375311/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:deviavlisha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 📊 GitHub Profile Views
+## 📊 GitHub Profile Views
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=indramohankumar&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+  <img src="https://komarev.com/ghpvc/?username=indramohankumar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
 ```cpp
 while (!success)
@@ -421,17 +247,5 @@ while (!success)
 }
 ```
 
----
-
-<h3 align="center">
-
-"Code. Learn. Build. Repeat."
-
-</h3>
-
-<h4 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</h4>
-````
+<p align="center"><b>Code. Learn. Build. Repeat.</b></p>
+<p align="center">⭐ Thanks for visiting my profile! ⭐</p>
